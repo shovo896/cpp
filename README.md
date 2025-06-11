@@ -1,5 +1,5 @@
 # cpp
-  That is my cpp (partial)journey along with Duteeee ,we emphasis on OOP and functions on this section ,that was an incredible journey to collab with this guy ,  I really love  for her  enthusiassm ,helping  mindset . On journey we covered - 
+  That is my cpp (partial)journey along with Duteeee ,we emphasis on OOP and functions on this section ,that was an incredible journey to collab with this guy ,  I really love  for her  enthusiassm ,helping  mindset . On this  journey we covered - 
 
 
 - Classes and Objects  
