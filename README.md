@@ -18,6 +18,6 @@
 - Dynamic Memory Allocation in OOP 
 - STL (Standard Template Library) and OOP Integration
 
-Let me know if you want explanations or examples for any of these! 🚀
+
 
   
